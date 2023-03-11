@@ -7,7 +7,8 @@
 - Có 2 cách crack:
   - [Chạy file kích hoạt Reg MathType.reg](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EdDUDtUoRn5HvdGivYqLAugBB-E5BRsaKKg2GfOdxmBqGw?e=TPRpGM)
   - Hoặc copy [file Crack Mathtype 7.4.10](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EttfenyWMydEssltbCPUlm0BydrVG9wbfETaR6hQ44cJZg?e=qYCkQL) vào thư mục cài đặt vậy là xong!
-  
+- ![image](https://user-images.githubusercontent.com/82578024/224484151-83d8174d-5a76-4bdf-b126-d5187f73231d.png)
+
 # B. MATHTYPE 6.9
 
 - Download [file cài đặt Mathtype 6.9](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EdOTpg-tfBRAqACCpEOXmH0Btw02BekJuOhpuDUgbYjSiw?e=KvbLio)
