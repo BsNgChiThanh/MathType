@@ -1,3 +1,7 @@
+Tác giả: Nguyễn Chí Thành
+
+![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231749370-cff3f452-4349-46bd-80e4-dd85653ca27f.jpg)
+
 # MathType #
 
 # A. MATHTYPE 7.4.10 #
