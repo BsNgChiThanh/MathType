@@ -4,6 +4,8 @@ Tác giả: Nguyễn Chí Thành
 
 # MathType #
 
+- [MathType 7.6.0.156](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EnVzfR1i85lPhQ1dnvDbfw0B0Jnx2nzXBNIqNqUp6-Jwaw?e=7ouI5z)
+
 # A. MATHTYPE 7.4.10 #
 
 - Bạn download [file cài đặt](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Ei4xR_WIuJhGrAOh0wKGNOsBAOBw8vkhe_IpHhcVjeooCA?e=HzDJJ6)
