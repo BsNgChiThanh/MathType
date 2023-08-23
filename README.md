@@ -4,7 +4,7 @@ Tác giả: Nguyễn Chí Thành
 
 # MathType #
 
-- [MathType 7.6.0.156](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EnVzfR1i85lPhQ1dnvDbfw0B0Jnx2nzXBNIqNqUp6-Jwaw?e=7ouI5z), Video hướng dẫn [tại đây](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_onmicrosoft_com/EQnLMNFXS1JEucVmbWDELbUBq73bNQcV9NDt9YnjK8a4NA?e=c9xv35)
+- [MathType 7.6.0.156](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EnVzfR1i85lPhQ1dnvDbfw0B0Jnx2nzXBNIqNqUp6-Jwaw?e=7ouI5z), video hướng dẫn [tại đây](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_onmicrosoft_com/EQnLMNFXS1JEucVmbWDELbUBq73bNQcV9NDt9YnjK8a4NA?e=c9xv35)
 
 # A. MATHTYPE 7.4.10 #
 
