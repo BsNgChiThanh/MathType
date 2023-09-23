@@ -2,9 +2,9 @@ Tác giả: Nguyễn Chí Thành
 
 ![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231749370-cff3f452-4349-46bd-80e4-dd85653ca27f.jpg)
 
-# MathType #
+# MATHTYPE #
 
-## [MathType 7.6.0.156](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EnVzfR1i85lPhQ1dnvDbfw0B0Jnx2nzXBNIqNqUp6-Jwaw?e=7ouI5z), video hướng dẫn [tại đây](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_onmicrosoft_com/EQnLMNFXS1JEucVmbWDELbUBq73bNQcV9NDt9YnjK8a4NA?e=c9xv35). Bản crack này rất Ok! ##
+## [MATHTYPE 7.6.0.156](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EnVzfR1i85lPhQ1dnvDbfw0B0Jnx2nzXBNIqNqUp6-Jwaw?e=7ouI5z), video hướng dẫn [tại đây](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_onmicrosoft_com/EQnLMNFXS1JEucVmbWDELbUBq73bNQcV9NDt9YnjK8a4NA?e=c9xv35). Bản crack này rất Ok! ##
 
 ## MATHTYPE 7.4.10 ##
 
