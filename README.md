@@ -7,12 +7,14 @@ Tác giả: Nguyễn Chí Thành
 ## [MathType 7.7.0.237](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EmX1xJy-OAdMkOV7ashOdx0BCBMfIBZdpHFFHvugDq52qg?e=uVelDs) ##
   - File cài đặt: https://1drv.ms/u/s!AmvuvqBBIcK6iBessBsUBC2Cae_j?e=AlnegY
   - File kích hoạt: https://1drv.ms/u/s!AmvuvqBBIcK6iBQjVqvKrqpCINHg?e=dcaSwf
+  - Video hướng dẫn cài đặt: https://onedrive.live.com/?cid=BAC22141A0BEEE6B&id=BAC22141A0BEEE6B%211054&parId=BAC22141A0BEEE6B%211037&o=OneUp
   - Cài đặt xong, copy file kích hoạt vô thư mục cài đặt: **C:\Program Files (x86)\MathType**
   - Xong!
 
 ## [MATHTYPE 7.6.0.156](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EnVzfR1i85lPhQ1dnvDbfw0B0Jnx2nzXBNIqNqUp6-Jwaw?e=7ouI5z)  ##
   - File cài đặt: https://1drv.ms/u/s!AmvuvqBBIcK6iBbekUUgLvkGZVlv?e=GE8RVw
   - File kích hoạt: https://1drv.ms/u/s!AmvuvqBBIcK6iBP5fiD1TOtBiekA?e=Pldl3i
+  - Video hướng dẫn cài đặt: https://onedrive.live.com/?cid=BAC22141A0BEEE6B&id=BAC22141A0BEEE6B%211054&parId=BAC22141A0BEEE6B%211037&o=OneUp
   - Cài đặt xong, copy file kích hoạt vô thư mục cài đặt: **C:\Program Files (x86)\MathType**
   - Xong!
 
