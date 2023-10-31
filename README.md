@@ -5,8 +5,8 @@ Tác giả: Nguyễn Chí Thành
 # MATHTYPE #
 
 ## [MathType 7.7.0.237](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EmX1xJy-OAdMkOV7ashOdx0BCBMfIBZdpHFFHvugDq52qg?e=uVelDs) ##
-  - File cài đặt:
-  - File kích hoạt:
+  - File cài đặt: https://1drv.ms/u/s!AmvuvqBBIcK6iBessBsUBC2Cae_j?e=AlnegY
+  - File kích hoạt: https://1drv.ms/u/s!AmvuvqBBIcK6iBQjVqvKrqpCINHg?e=dcaSwf
   - Cài đặt xong, copy file kích hoạt vô thư mục: **C:\Program Files (x86)\MathType**
   - Xong!
 
