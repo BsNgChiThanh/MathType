@@ -27,7 +27,7 @@ Tác giả: Nguyễn Chí Thành
 
 ## MATHTYPE 6.9 ##
 
-- Download [file cài đặt Mathtype 6.9](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EdOTpg-tfBRAqACCpEOXmH0Btw02BekJuOhpuDUgbYjSiw?e=KvbLio)
+- Download [file cài đặt Mathtype 6.9](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EdOTpg-tfBRAqACCpEOXmH0Btw02BekJuOhpuDUgbYjSiw?e=KvbLio) link dự phòng: https://1drv.ms/u/s!AmvuvqBBIcK6iB1o1SkOrVgjgOoT?e=jMQyxs
 - Chạy file cài đặt, điền các thông số sau:
   - FirstName: NguyenChi
   - Lastname: Thanh
