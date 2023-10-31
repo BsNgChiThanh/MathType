@@ -4,6 +4,8 @@ Tác giả: Nguyễn Chí Thành
 
 # MATHTYPE #
 
+## [MathType 7.7.0.237](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EmX1xJy-OAdMkOV7ashOdx0BCBMfIBZdpHFFHvugDq52qg?e=uVelDs)
+
 ## [MATHTYPE 7.6.0.156](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EnVzfR1i85lPhQ1dnvDbfw0B0Jnx2nzXBNIqNqUp6-Jwaw?e=7ouI5z), video hướng dẫn [tại đây](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_onmicrosoft_com/EQnLMNFXS1JEucVmbWDELbUBq73bNQcV9NDt9YnjK8a4NA?e=c9xv35). Bản crack này rất Ok! ##
 
 ## MATHTYPE 7.4.10 ##
