@@ -22,7 +22,7 @@ Tác giả: Nguyễn Chí Thành
 - Cài đặt bình thường ![image](https://user-images.githubusercontent.com/82578024/224482695-11e13c70-a54e-4e84-a85a-7269ec4bd429.png) 
 - Có 2 cách crack:
   - [Chạy file kích hoạt Reg MathType.reg](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EdDUDtUoRn5HvdGivYqLAugBB-E5BRsaKKg2GfOdxmBqGw?e=TPRpGM) hoặc [tại đây](https://public.bn.files.1drv.com/y4mh6rOYBKPO5QIDhT_0q5CBODzT43VSkixD6OA9LBFbvjRCvucAeBwlt9qcc_S-zHvwNJ3AxmqbUDR97VM-DAIDWQlxcDFK1vCDffR4nFGBJO_7jKe2TprSCK5WNCGPOheV__sF9m0WkjsQiosooOgXv628Y0QFviYV9vNXFq6Y2WeJPK082OQgVsdPuaZG9KUWKyjfQ5eOK1nvXcMWM3krCIKs22YCoUUxcqKYolqATo?AVOverride=1)
-  - Hoặc copy [file Crack MathType.exe](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EttfenyWMydEssltbCPUlm0BydrVG9wbfETaR6hQ44cJZg?e=qYCkQL) vào thư mục cài đặt vậy là xong!
+  - Hoặc copy [file Crack MathType.exe](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EttfenyWMydEssltbCPUlm0BydrVG9wbfETaR6hQ44cJZg?e=qYCkQL) link [dự phòng](https://1drv.ms/u/s!AmvuvqBBIcK6iBwvjPLSGp4nKj8n?e=h4g6wx) vào thư mục cài đặt vậy là xong!
 - ![image](https://user-images.githubusercontent.com/82578024/224484151-83d8174d-5a76-4bdf-b126-d5187f73231d.png)
 
 ## MATHTYPE 6.9 ##
