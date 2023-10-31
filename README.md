@@ -16,7 +16,7 @@ Tác giả: Nguyễn Chí Thành
   - Cài đặt xong, copy file kích hoạt vô thư mục cài đặt: **C:\Program Files (x86)\MathType**
   - Xong!
 
-## [MATHTYPE 7.4.10](ttps://1drv.ms/f/s!AmvuvqBBIcK6iA_2dFL8W0LViVPu?e=k0ApZ8) ##
+## [MATHTYPE 7.4.10](https://1drv.ms/f/s!AmvuvqBBIcK6iA_2dFL8W0LViVPu?e=k0ApZ8) ##
 
 - Bạn download [file cài đặt](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Ei4xR_WIuJhGrAOh0wKGNOsBAOBw8vkhe_IpHhcVjeooCA?e=HzDJJ6)
 - Cài đặt bình thường ![image](https://user-images.githubusercontent.com/82578024/224482695-11e13c70-a54e-4e84-a85a-7269ec4bd429.png) 
