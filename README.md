@@ -14,6 +14,15 @@ Tác giả: Nguyễn Chí Thành
   - Cài đặt xong, copy file kích hoạt vô thư mục cài đặt: **C:\Program Files (x86)\MathType**
   - Xong!
 
+### FIX: SECURITY WARNING Macros have been disabled ###
+  - Khi cài đặt Math type xong mở Word lê nó xuất hiện dòng chữ: **SECURITY WARNING Macros have been disabled** nhìn thấy khó chịu, cách fix:
+  - ![image](https://github.com/BsNgChiThanh/MathType/assets/82578024/3ffb257c-48da-44ac-a23f-d114630cf8f9)
+  - Click vào dòng chữ: **SECURITY WARNING Macros have been disabled**
+  - ![image](https://github.com/BsNgChiThanh/MathType/assets/82578024/36865589-e3ea-4067-a71e-222f9dacdbea)
+  - Tiếp tục click vào dòng chữ: **Trust Center Settings**
+  - ![image](https://github.com/BsNgChiThanh/MathType/assets/82578024/00fc3bf7-7a6d-4aae-964c-3248929c4bd5)
+  - Tắt Word rồi mở lại sẽ không còn dòng chữ đó nữa!
+
 ## [MATHTYPE 7.6.0.156](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EnVzfR1i85lPhQ1dnvDbfw0B0Jnx2nzXBNIqNqUp6-Jwaw?e=7ouI5z)  ##
   - File cài đặt: https://1drv.ms/u/s!AmvuvqBBIcK6iBbekUUgLvkGZVlv?e=GE8RVw
   - File kích hoạt: https://1drv.ms/u/s!AmvuvqBBIcK6iBP5fiD1TOtBiekA?e=Pldl3i
