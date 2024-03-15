@@ -6,7 +6,7 @@ Tác giả: Nguyễn Chí Thành
 
 ## [MathType 7.8.0.0](https://1drv.ms/f/s!AmvuvqBBIcK6iQjiOw0ms_wQGnj7?e=MRMJ79) ##
   - Download [tại đây](https://1drv.ms/f/s!AmvuvqBBIcK6iQjiOw0ms_wQGnj7?e=MRMJ79)
-  - [Hướng dẫn cài đặt và crack](https://1drv.ms/v/s!AmvuvqBBIcK6iQp1PDaJmgbRnfKa?e=1HB9GD)
+  - [Hướng dẫn cài đặt và crack tương tự MathType 7.7.0.237](https://1drv.ms/v/s!AmvuvqBBIcK6iQp1PDaJmgbRnfKa?e=1HB9GD)
 
 ## [MathType 7.7.1.258](https://1drv.ms/f/s!AmvuvqBBIcK6iFb46UeB_mrbLYCL?e=DX2IHQ) ##
   - Download [tại đây](https://1drv.ms/f/s!AmvuvqBBIcK6iFb46UeB_mrbLYCL?e=DX2IHQ)
