@@ -19,7 +19,7 @@ Tác giả: Nguyễn Chí Thành
   - ![image](https://github.com/BsNgChiThanh/MathType/assets/82578024/3ffb257c-48da-44ac-a23f-d114630cf8f9)
   - Click vào dòng chữ: **SECURITY WARNING Macros have been disabled**
   - ![image](https://github.com/BsNgChiThanh/MathType/assets/82578024/36865589-e3ea-4067-a71e-222f9dacdbea)
-  - Tiếp tục click vào dòng chữ: **Trust Center Settings --> Macros Settings --> Disable all macros without notification --> OK**
+  - Tiếp tục click vào dòng chữ: **Trust Center Settings → Macros Settings → Disable all macros without notification → OK**
   - ![image](https://github.com/BsNgChiThanh/MathType/assets/82578024/00fc3bf7-7a6d-4aae-964c-3248929c4bd5)
   - Tắt Word rồi mở lại sẽ không còn dòng chữ đó nữa!
 
