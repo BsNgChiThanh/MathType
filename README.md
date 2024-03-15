@@ -15,7 +15,7 @@ Tác giả: Nguyễn Chí Thành
   - Xong!
 
 ### FIX: SECURITY WARNING Macros have been disabled ###
-  - Khi cài đặt Math type xong mở Word lê nó xuất hiện dòng chữ: **SECURITY WARNING Macros have been disabled** nhìn thấy khó chịu, cách fix:
+  - Khi cài đặt Math type xong mở Word lên nó xuất hiện dòng chữ: **SECURITY WARNING Macros have been disabled** nhìn thấy khó chịu, cách fix:
   - ![image](https://github.com/BsNgChiThanh/MathType/assets/82578024/3ffb257c-48da-44ac-a23f-d114630cf8f9)
   - Click vào dòng chữ: **SECURITY WARNING Macros have been disabled**
   - ![image](https://github.com/BsNgChiThanh/MathType/assets/82578024/36865589-e3ea-4067-a71e-222f9dacdbea)
