@@ -52,10 +52,12 @@ Tác giả: Nguyễn Chí Thành
   - Organization: Hospital
   - Key: MTWE691-011084-r0xyl
   - Email: driverbsthanh@gmail.com
-- Cách đưa Mathtype 6.9 vào Word 2016 như sau:
+- Cách đưa Mathtype 6.9 vào Word 2016 như sau (Hoặc khi cài đặt Mathtype rồi mà gở office cài lại thì cách đưa Mathtype và Word cũng làm tương tự):
   **Win32:**
     - Vô **C:\Program Files\MathType\MathPage\32** Copy file **MathPage** vao thu muc: **C:\Program Files\Microsoft Office\root\Office16\STARTUP** (chủ yếu vào thư mục **startup** vì đường dẫn có thể thay đổi), tiếp theo vào thư mục: **C:\Program Files\MathType\Office Support\32** copy file **MathType Commands 6 For Word 2013** vào thư mục **C:\Program Files\Microsoft Office\root\Office16\STARTUP** (chủ yếu vào thư mục **startup** vì đường dẫn có thể thay đổi)
     - Ok
   **Win64:**
     - Vô **C:\Program Files\MathType\MathPage\64** Copy file **MathPage** vao thu muc: **C:\Program Files\Microsoft Office\Office16\STARTUP** (chủ yếu vào thư mục **startup** vì đường dẫn có thể thay đổi) tiếp theo vào thư mục: **C:\Program Files\MathType\Office Support\64** copy file **MathType Commands 6 For Word 2013** vào thư mục **C:\Program Files\Microsoft Office\Office16\STARTUP** (chủ yếu vào thư mục **startup** vì đường dẫn có thể thay đổi)
     - Ok
+    - Ghi chú:
+      - Một số Office cao có thể có đường dẫn khác như: **C:\Program Files (x86)\Microsoft Office\root\Office16\STARTUP**
